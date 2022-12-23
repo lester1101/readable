@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.21)  24 DEC 2022 00:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.21)  24 DEC 2022 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,35 +372,22 @@ File: figures//DisneyChart.png Graphic file (type png)
 <use figures//DisneyChart.png>
 Package pdftex.def Info: figures//DisneyChart.png  used on input line 23.
 (pdftex.def)             Requested size: 346.2929pt x 225.84319pt.
- [2] [3 <./figures//DisneyChart.png>]
-Overfull \hbox (12.86111pt too wide) in paragraph at lines 104--108
-\OT1/cmr/m/n/12 cific ob-jec-tive start with ``to $\OML/cmm/m/it/12 <$\OT1/cmr/
-m/n/12 verb$\OML/cmm/m/it/12 >$\OT1/cmr/m/n/12 '' for ex-am-ple: to de-sign/sur
-vey/review/analyze. 
- []
-
-[4]
-Overfull \hbox (2.88484pt too wide) in paragraph at lines 109--110
-\OT1/cmr/m/n/12 study Windows/Object-Oriented/Graphics/C++ pro-gram-ming) to ac
--com-plish the
- []
-
-[5]) [6]
+ [2] [3 <./figures//DisneyChart.png>] [4]) [5]
 \openout2 = `chapter_2.aux'.
 
  (chapter_2.tex
 Chapter 2.
-[7
+[6
 
 
 
 
-]) [8]
+]) [7]
 \openout2 = `chapter_3.aux'.
 
  (chapter_3.tex
 Chapter 3.
-[9
+[8
 
 
 
@@ -415,12 +402,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []\OT1/cmr/m/n/12 Development of Rac-ing
  []
 
-) [10]
+) [9]
 \openout2 = `chapter_4.aux'.
 
  (chapter_4.tex
 Chapter 4.
-) [11
+) [10
 
 
 
@@ -430,7 +417,7 @@ Chapter 4.
 
  (appendix_A.tex
 Appendix A.
-) [12
+) [11
 
 
 
@@ -445,12 +432,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--26
 
  []
 
-[13
+[12
 
 
 
 
-] (main.bbl) [14
+] (main.bbl) [13
 
 
 
@@ -460,7 +447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--26
 Here is how much of TeX's memory you used:
  4917 strings out of 475389
  80143 string characters out of 2771300
- 425338 words of memory out of 3000000
+ 425337 words of memory out of 3000000
  26162 multiletter control sequences out of 15000+600000
  477518 words of font info for 59 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -470,15 +457,14 @@ jfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Patrick Panizales/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Patrick Pan
 izales/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 ><C:/Users/Patrick Panizales/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><C:/Users/Patrick Panizales/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Patrick Panizales/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Patrick 
-Panizales/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.p
-fb><C:/Users/Patrick Panizales/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (20 pages, 140579 bytes).
+msfonts/cm/cmr12.pfb><C:/Users/Patrick Panizales/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Patrick Panizales/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Patrick 
+Panizales/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.p
+fb>
+Output written on main.pdf (19 pages, 130708 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
