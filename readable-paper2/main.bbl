@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Hernandez%
+}{%
+Hernandez%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+hernandez-2020}
+\APACinsertmetastar {%
+hernandez-2020}%
+\begin{APACrefauthors}%
+Hernandez, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{10}{}.
+\newblock
+\APACrefbtitle {{Literacy rate estimated at 93.8% among 5 year olds or older
+  — PSA}.} {{Literacy rate estimated at 93.8% among 5 year olds or older —
+  PSA}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.bworldonline.com/economy/2020/10/29/325932/literacy-rate-estimated-at-93-8-among-5-year-olds-or-older-psa/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+UNICEF%
+, UNESCO%
+\BCBL {}\ \BBA {} Bank%
+}{%
+UNICEF%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+unicef-2022}
+\APACinsertmetastar {%
+unicef-2022}%
+\begin{APACrefauthors}%
+UNICEF%
+, UNESCO%
+\BCBL {}\ \BBA {} Bank, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{3}{}.
+\newblock
+\APACrefbtitle {{Where are we on Education Recovery?}} {{Where are we on
+  Education Recovery?}}\ \APACbVolEdTR{}{\BTR{}}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

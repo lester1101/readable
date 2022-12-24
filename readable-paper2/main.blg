@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: title_page.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chapter_1.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chapter_2.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chapter_3.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: chapter_4.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: appendix_A.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: appendix_B.aux
+Illegal, another \bibstyle command---line 11 of file main.aux
+ : \bibstyle
+ :          {apacite}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: myreferences.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No institution in unicef-2022
+Warning--No address in unicef-2022
+You've used 2 entries,
+            6951 wiz_defined-function locations,
+            1286 strings with 11063 characters,
+and the built_in function-call counts, 3320 in all, are:
+= -- 391
+> -- 29
+< -- 154
++ -- 136
+- -- 8
+* -- 201
+:= -- 641
+add.period$ -- 9
+call.type$ -- 2
+change.case$ -- 38
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 72
+empty$ -- 144
+format.name$ -- 46
+if$ -- 630
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 0
+newline$ -- 49
+num.names$ -- 16
+pop$ -- 116
+preamble$ -- 1
+purify$ -- 12
+quote$ -- 0
+skip$ -- 176
+stack$ -- 0
+substring$ -- 145
+swap$ -- 39
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 160
+warning$ -- 2
+while$ -- 21
+width$ -- 0
+write$ -- 59
+(There was 1 error message)
