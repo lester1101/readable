@@ -34,51 +34,48 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myreferences.bib
-I was expecting a `,' or a `}'---line 3 of file myreferences.bib
- :  @book{are 
- :            we on education recovery?_2022, url={https://www.unicef.org/reports/where-are-we-education-recovery}, journal={Where are we on Education Recovery?}, institution={UNICEF}, year={2022}, month={Mar}}
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "areweoneducationrecovery?_2022"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 1 entry,
+Warning--No institution in unicef-2022
+Warning--No address in unicef-2022
+You've used 2 entries,
             6951 wiz_defined-function locations,
-            1285 strings with 11029 characters,
-and the built_in function-call counts, 1731 in all, are:
-= -- 200
-> -- 10
-< -- 87
-+ -- 76
-- -- 4
-* -- 102
-:= -- 364
-add.period$ -- 5
-call.type$ -- 1
-change.case$ -- 19
+            1286 strings with 11063 characters,
+and the built_in function-call counts, 3320 in all, are:
+= -- 391
+> -- 29
+< -- 154
++ -- 136
+- -- 8
+* -- 201
+:= -- 641
+add.period$ -- 9
+call.type$ -- 2
+change.case$ -- 38
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 33
-empty$ -- 78
-format.name$ -- 14
-if$ -- 319
+cite$ -- 6
+duplicate$ -- 72
+empty$ -- 144
+format.name$ -- 46
+if$ -- 630
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 6
 missing$ -- 0
-newline$ -- 27
-num.names$ -- 8
-pop$ -- 71
+newline$ -- 49
+num.names$ -- 16
+pop$ -- 116
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 12
 quote$ -- 0
-skip$ -- 83
+skip$ -- 176
 stack$ -- 0
-substring$ -- 80
-swap$ -- 17
-text.length$ -- 5
+substring$ -- 145
+swap$ -- 39
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 80
-warning$ -- 0
-while$ -- 7
+type$ -- 160
+warning$ -- 2
+while$ -- 21
 width$ -- 0
-write$ -- 28
-(There were 2 error messages)
+write$ -- 59
+(There was 1 error message)
