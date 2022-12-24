@@ -34,46 +34,51 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myreferences.bib
+I was expecting a `,' or a `}'---line 3 of file myreferences.bib
+ :  @book{are 
+ :            we on education recovery?_2022, url={https://www.unicef.org/reports/where-are-we-education-recovery}, journal={Where are we on Education Recovery?}, institution={UNICEF}, year={2022}, month={Mar}}
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "areweoneducationrecovery?_2022"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 9 entries,
+You've used 1 entry,
             6951 wiz_defined-function locations,
-            1344 strings with 12642 characters,
-and the built_in function-call counts, 19305 in all, are:
-= -- 2472
-> -- 186
-< -- 817
-+ -- 881
-- -- 18
-* -- 1171
-:= -- 3246
-add.period$ -- 43
-call.type$ -- 9
-change.case$ -- 160
+            1285 strings with 11029 characters,
+and the built_in function-call counts, 1731 in all, are:
+= -- 200
+> -- 10
+< -- 87
++ -- 76
+- -- 4
+* -- 102
+:= -- 364
+add.period$ -- 5
+call.type$ -- 1
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 539
-empty$ -- 757
-format.name$ -- 308
-if$ -- 3762
+cite$ -- 2
+duplicate$ -- 33
+empty$ -- 78
+format.name$ -- 14
+if$ -- 319
 int.to.chr$ -- 0
-int.to.str$ -- 27
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 242
-num.names$ -- 76
-pop$ -- 383
+newline$ -- 27
+num.names$ -- 8
+pop$ -- 71
 preamble$ -- 1
-purify$ -- 40
+purify$ -- 6
 quote$ -- 0
-skip$ -- 1331
+skip$ -- 83
 stack$ -- 0
-substring$ -- 986
-swap$ -- 330
-text.length$ -- 41
+substring$ -- 80
+swap$ -- 17
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1040
+type$ -- 80
 warning$ -- 0
-while$ -- 112
+while$ -- 7
 width$ -- 0
-write$ -- 308
-(There was 1 error message)
+write$ -- 28
+(There were 2 error messages)
